@@ -1,0 +1,4 @@
+src/detector/datasets/
+runs/
+src/detector/runs/
+*.pt
