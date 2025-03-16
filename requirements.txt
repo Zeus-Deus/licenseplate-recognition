@@ -17,3 +17,5 @@ Image==1.5.33
 easyocr==1.4.1
 transformers==4.35.0
 sentencepiece
+ipykernel
+pillow>=9.0.0
