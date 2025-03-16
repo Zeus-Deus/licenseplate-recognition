@@ -18,6 +18,11 @@ RUN apt-get update && apt-get install -y \
     libxext6 \
     libxrender-dev \
     libgtk2.0-0 \
+    libjpeg-dev \
+    zlib1g-dev \
+    libpng-dev \
+    libfreetype6-dev \
+    liblcms2-dev \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 

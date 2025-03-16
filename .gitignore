@@ -1,5 +1,6 @@
 src/detector/datasets/
+datasets/
 runs/
 src/detector/runs/
 *.pt
-core.*
+models/

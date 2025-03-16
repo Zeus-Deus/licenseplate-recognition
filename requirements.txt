@@ -14,4 +14,6 @@ datasets==2.17.0
 numpy==1.24.3
 kagglehub==0.3.10
 Image==1.5.33
-
+easyocr==1.4.1
+transformers==4.35.0
+sentencepiece
